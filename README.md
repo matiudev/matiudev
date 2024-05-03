@@ -73,4 +73,4 @@
 
 ------
 [matiudev](https://github.com/matiudev)
-Last Edited on: 02/05/2024
+Última edición: 02/05/2024
