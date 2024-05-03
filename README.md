@@ -5,7 +5,7 @@
 	
 ## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **Sobre mí**
 
-<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
+<picture> <img align="right" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" width = 400px></picture>
 
 - 🔭 Actualmente soy Programador Freelance.
 - 🌱 Actualmente estoy aprendiendo Java.
