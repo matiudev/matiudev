@@ -8,7 +8,7 @@
 <picture> <img align="right" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" width = 400px></picture>
 
 - 🔭 Actualmente soy Programador Freelance.
-- 🌱 Actualmente estoy aprendiendo Java.
+- 🌱 Actualmente estoy aprendiendo Python.
 - 📫 Cómo contactarme: matiiasalberto.22@gmail.com
 - ⚡ Dato curioso: ¡nunca pensé que me convertiría en programador web!
 
