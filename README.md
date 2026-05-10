@@ -1,77 +1,79 @@
-﻿
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=370&height=100&lines=Hola+%2C+Soy+matiudev+%F0%9F%91%8B" alt="Typing SVG" /></a>
-</p>
-	
-## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **Sobre mí**
-
-<picture> <img align="right" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" width = 400px></picture>
-
-- 🔭 Actualmente soy Programador Freelance.
-- 🌱 Actualmente estoy aprendiendo Python.
-- 📫 Cómo contactarme: matiiasalberto.22@gmail.com
-- ⚡ Dato curioso: ¡nunca pensé que me convertiría en programador web!
-- 💼 Mi Portafolio: https://matiudev.vercel.app/
-
-<br>
-<br>
-<br>
-
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-
-<p align="center">
-
-- **Languages**:
-    
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="40" height="40" />
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="60" height="40" />
-     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="80" height="40" />
-     
-- **Front-End Development**:
-
-   <img src="https://user-images.githubusercontent.com/64439609/212556407-f122dc0e-901c-4df7-960f-29a3b52c5349.png" width="40" height="40" alt="HTML" />
-   <img src="https://user-images.githubusercontent.com/64439609/212556203-47a51702-fec1-4275-bafb-6afdea15b092.png" width="40" height="40" alt="CSS" />
-   <img src="https://user-images.githubusercontent.com/64439609/212556085-e6f8391a-6f25-43d5-8bfe-818167047cfb.png" width="40" height="40" alt="JS"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="40" height="40" alt="React"/>
-   
-
-
-
-- **Softwares and Tools**:
-
-    <img src="https://user-images.githubusercontent.com/64439609/212556685-de9a7c04-31b0-43b6-af39-7c82ac13b321.png" width="40" height="40" alt="Git"/>
-    <img src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" width="40" height="40" alt="Git"/>
-    <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
-
-
-
- 
-
-<br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=440&height=80&lines=Hola%2C+soy+matiudev+%F0%9F%91%8B;Desarrollador+Web+Freelance;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
+  </a>
 </p>
 
------
-
-<h3 align="center" >Contactate conmigo🤝 </h3>
-
 <p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;" target="_blank" href="">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-           <a style="margin-left: 10px;" target="_blank" href="mailto:matiiasalberto.22@gmail.com">
-		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
-      </div>
-
+  <a href="https://matiudev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-matiudev.vercel.app-3B82F6?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:matiiasalberto.22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-matiiasalberto.22%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Estado-Open%20to%20work-22C55E?style=flat-square" />
 </p>
 
+---
 
-	
+## 👨‍💻 Sobre mí
 
+- 🔭 Actualmente trabajo como **Programador Freelance**
+- 🌱 Aprendiendo **Python** (y disfrutándolo)
+- 💼 Portfolio: [matiudev.vercel.app](https://matiudev.vercel.app/)
+- 📫 Contacto: [matiiasalberto.22@gmail.com](mailto:matiiasalberto.22@gmail.com)
+- ⚡ Fun fact: ¡nunca pensé que me convertiría en desarrollador web!
+
+---
+
+## 🛠️ Tecnologías & Herramientas
+
+**Lenguajes**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=matiudev&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </div>
 
+---
 
-------
-[matiudev](https://github.com/matiudev)
-Última edición: 02/05/2024
+## 🤝 Contacto
+
+<p align="center">
+  <a href="https://github.com/matiudev">
+    <img src="https://img.shields.io/badge/GitHub-matiudev-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:matiiasalberto.22@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-matiiasalberto.22-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=matiudev&style=flat-square&color=3B82F6&label=Visitas+al+perfil" />
+</p>
+
+<p align="center"><i>Última edición: 05/2026</i></p>
