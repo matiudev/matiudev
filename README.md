@@ -1,17 +1,12 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=440&height=80&lines=Hola%2C+soy+matiudev+%F0%9F%91%8B;Desarrollador+Web+Freelance;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=ffffff&center=true&vCenter=true&width=540&height=80&lines=Hola%2C+soy+matiudev+%F0%9F%91%8B;Desarrollador+Web+Freelance;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://matiudev.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-matiudev.vercel.app-3B82F6?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:matiiasalberto.22@gmail.com">
-    <img src="https://img.shields.io/badge/Email-matiiasalberto.22%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Estado-Open%20to%20work-22C55E?style=flat-square" />
+  <a href="https://matiudev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-matiudev.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=000000" /></a>
+  <a href="mailto:matiiasalberto.22@gmail.com"><img src="https://img.shields.io/badge/Email-matiiasalberto.22%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=B71C1C" /></a>
 </p>
 
 ---
@@ -23,8 +18,6 @@
 - 💼 Portfolio: [matiudev.vercel.app](https://matiudev.vercel.app/)
 - 📫 Contacto: [matiiasalberto.22@gmail.com](mailto:matiiasalberto.22@gmail.com)
 - ⚡ Fun fact: ¡nunca pensé que me convertiría en desarrollador web!
-
----
 
 ## 🛠️ Tecnologías & Herramientas
 
@@ -47,33 +40,22 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=matiudev&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 </div>
 
 ---
 
-## 🤝 Contacto
-
 <p align="center">
-  <a href="https://github.com/matiudev">
-    <img src="https://img.shields.io/badge/GitHub-matiudev-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:matiiasalberto.22@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-matiiasalberto.22-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://github.com/matiudev"><img src="https://img.shields.io/badge/GitHub-matiudev-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:matiiasalberto.22@gmail.com"><img src="https://img.shields.io/badge/Gmail-matiiasalberto.22-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/56941128390"><img src="https://img.shields.io/badge/WhatsApp-%2B56941128390-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=matiudev&style=flat-square&color=3B82F6&label=Visitas+al+perfil" />
+  <i>· última edición 05/2026</i>
 </p>
-
-<p align="center"><i>Última edición: 05/2026</i></p>
